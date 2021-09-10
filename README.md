@@ -1,5 +1,19 @@
-# typing_speed_calculator
-
+## Introduction
+The project consists of a menu driven program to perform various 
+operations such as:
+● To start the timer.
+● Display the highscores of all users.
+● Display a tutorial 
+The program is done using data file handling with separate functions to 
+perform each task.
+● File handling
+● Searching and sorting
+● Time.h functions
+● Randomize functions
+● Process.h functions
+<br>
+<br>
+<br>
 ## App Main Menu
 ![image](https://user-images.githubusercontent.com/25506296/132852713-ac7c1958-d032-4b2d-a85d-3ccfacb04173.png)
 <br>
