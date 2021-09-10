@@ -8,6 +8,11 @@
 #include<string.h>
 #include<fstream.h>
 
+/**
+* 17 December 2015
+* Collaborators: Avinash Raja Amarchand, PSS Abishek, Tarun Subramanian
+*/
+
 int i;
 class acc
 {
