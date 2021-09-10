@@ -4,24 +4,36 @@
 ![image](https://user-images.githubusercontent.com/25506296/132852713-ac7c1958-d032-4b2d-a85d-3ccfacb04173.png)
 
 
+
+
 ## Sample Text: Calculate Typing Speed
 ![image](https://user-images.githubusercontent.com/25506296/132852924-08b8d88b-8110-4c4d-a0c3-7010dd39faf7.png)
+
+
 
 
 ## Result
 ![image](https://user-images.githubusercontent.com/25506296/132853035-bfb7af23-f609-41d5-9621-7bbecf77f651.png)
 
 
+
+
 ## Save Your Result
 ![image](https://user-images.githubusercontent.com/25506296/132853304-8cd989a6-b03a-404b-b689-ead05a1ab081.png)
+
+
 
 
 ## Scoreboard
 ![image](https://user-images.githubusercontent.com/25506296/132853431-42862a1e-587a-4a98-b6ce-c5f58f9c0475.png)
 
 
+
+
 ## Help
 ![image](https://user-images.githubusercontent.com/25506296/132853470-5ffeeee2-1100-4ab6-bbb3-ff6f385cc669.png)
+
+
 
 
 ## About
