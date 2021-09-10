@@ -1,16 +1,16 @@
 ## Introduction
 The project consists of a menu driven program to perform various 
 operations such as:
-● To start the timer.
-● Display the highscores of all users.
-● Display a tutorial 
+- To start the timer.
+- Display the highscores of all users.
+- Display a tutorial 
 The program is done using data file handling with separate functions to 
 perform each task.
-● File handling
-● Searching and sorting
-● Time.h functions
-● Randomize functions
-● Process.h functions
+- File handling
+- Searching and sorting
+- Time.h functions
+- Randomize functions
+- Process.h functions
 <br>
 <br>
 <br>
