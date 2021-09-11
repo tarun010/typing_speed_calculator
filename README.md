@@ -1,4 +1,7 @@
 # Typing Speed Calculator
+
+## 17 December 2017
+
 The project consists of a menu driven program to perform various 
 operations such as:
 - To start the timer.
