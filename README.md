@@ -1,6 +1,6 @@
 # Typing Speed Calculator
 
-## 17 December 2017
+## 17 December 2015
 
 The project consists of a menu driven program to perform various 
 operations such as:
